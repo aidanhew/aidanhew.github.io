@@ -1,0 +1,7 @@
+---
+title: "Aidan Hew Website"
+---
+
+Hello!
+
+Welcome to my website, please navigate to the 'About' page for more information about me.

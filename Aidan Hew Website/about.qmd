@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+My name is Aidan Hew and I am an aspiring Data Scientist from the Cayman Islands!
